@@ -8,7 +8,7 @@ Overview
 
 The EFR32BG27 Blue Gecko Radio Board is one of the two
 radio boards delivered with `xG27-PK6017A Website`_. It contains
-a Wireless System-On-Chip from the EFR32MG24 family built on an
+a Wireless System-On-Chip from the EFR32xG27 family built on an
 ARM Cortex®-M33F processor with excellent low power capabilities.
 
 .. figure:: efr32xG27-xg27-rb4191a.jpg
