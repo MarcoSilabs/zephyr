@@ -18,7 +18,7 @@ ARM Cortex®-M33F processor with excellent low power capabilities.
    xG27-RB4194A (image courtesy of Silicon Labs)
 
 The BRD4194A a.k.a. xG27-RB4194a radio board plugs into the Wireless Pro Kit
-Mainboard BRD4002A.
+Mainboard BRD4002A and is supported as one of :ref:`silabs_radio_boards`.
 
 Hardware
 ********
