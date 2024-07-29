@@ -35,10 +35,10 @@ For more information about the EFR32BG27 SoC and BRD4191A board, refer to these
 documents:
 
 - `EFR32BG27 Website`_
-- `EFR32BG27 Datasheet`_ 
+- `EFR32BG27 Datasheet`_
 - `EFR32xG27 Reference Manual`_
 - `xG27-PK6017A Website`_
-- `BRD4194A User Guide`_ 
+- `BRD4194A User Guide`_
 
 Supported Features
 ==================
