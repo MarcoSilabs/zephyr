@@ -30,6 +30,7 @@ Hardware
 - Transmit power: up to +8 dBm
 - Operation frequency: 2.4 GHz
 - Crystals for LFXO (32.768 kHz) and HFXO (38.4 MHz).
+- Secure Vault High with PUF
 
 For more information about the EFR32BG27 SoC and BRD4191A board, refer to these
 documents:
