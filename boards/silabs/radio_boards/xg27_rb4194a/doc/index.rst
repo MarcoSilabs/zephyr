@@ -11,7 +11,7 @@ radio boards delivered with `xG27-PK6017A Website`_. It contains
 a Wireless System-On-Chip from the EFR32xG27 family built on an
 ARM Cortex®-M33F processor with excellent low power capabilities.
 
-.. figure:: efr32xG27-xg27-rb4191a.jpg
+.. figure:: ./efr32xG27-xg27-rb4191a.jpg
    :align: center
    :alt: xG27-RB4194A Blue Gecko Radio Board
 
@@ -155,5 +155,3 @@ Reset the board and you should see the following message in the terminal:
 
 .. _EFR32xG27 Reference Manual:
    https://www.silabs.com/documents/public/reference-manuals/efr32xg27-rm.pdf
-
-
