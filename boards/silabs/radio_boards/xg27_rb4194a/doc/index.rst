@@ -18,7 +18,7 @@ ARM Cortex®-M33F processor with excellent low power capabilities.
    xG27-RB4194A (image courtesy of Silicon Labs)
 
 The BRD4194A a.k.a. xG27-RB4194a radio board plugs into the Wireless Pro Kit
-Mainboard BRD4002A and is supported as one of :ref:`silabs_radio_boards`.
+Mainboard BRD4002A.
 
 Hardware
 ********
@@ -34,10 +34,10 @@ Hardware
 For more information about the EFR32BG27 SoC and BRD4191A board, refer to these
 documents:
 
-- `EFR32BG27 Website`_ 
+- `EFR32BG27 Website`_
 - `EFR32BG27 Datasheet`_ 
-- `EFR32xG27 Reference Manual`_ 
-- `xG27-PK6017A Website`_ 
+- `EFR32xG27 Reference Manual`_
+- `xG27-PK6017A Website`_
 - `BRD4194A User Guide`_ 
 
 Supported Features
@@ -97,7 +97,7 @@ means Pin number 2 on PORTA, as used in the board's datasheets and manuals.
 +-------+-------------+-------------------------------------+
 
 The default configuration can be found in
-:zephyr_file:`boards/silabs/radio_boards/xg27_rb4194a`
+:zephyr_file:`boards/silabs/radio_boards/xg27_rb4194a/xg27_rb4194a_defconfig`
 
 System Clock
 ============
